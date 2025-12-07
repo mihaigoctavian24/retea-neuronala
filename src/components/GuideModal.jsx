@@ -111,7 +111,7 @@ const GuideModal = ({ isOpen, onClose }) => {
                             index={3}
                             isOpen={openSection === 3}
                             toggle={() => toggleSection(3)}
-                            title="4. Exportarea și Resetarea Datelor"
+                            title="4. Resetarea Datelor"
                             icon={<MousePointer size={24} color="#ffbd00" />}
                             text="La finalul experimentului, puteți reseta rețeaua la starea inițială folosind butonul 'Reset Network'. Această acțiune va reinițializa toate ponderile cu valori aleatoare, permițând rularea unui nou scenariu de testare."
                         />

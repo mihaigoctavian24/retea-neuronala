@@ -224,7 +224,7 @@ function App() {
             alignItems: 'center',
             fontWeight: '300'
           }}>
-            <span style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
+            <span style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
               <GraduationCap size={16} color="#ff0080" />
               Profesor Coordonator: <span style={{ marginLeft: '4px' }}>Gruiescu Mihaela</span>
             </span>

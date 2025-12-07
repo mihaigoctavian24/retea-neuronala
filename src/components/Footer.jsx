@@ -94,7 +94,7 @@ const Footer = () => {
                     paddingTop: '10px',
                     paddingBottom: '50px'
                 }}>
-                    © 2025 Neuronal Networks Lab. All rights reserved. Made with <Heart size={10} fill="#ff0080" color="#ff0080" style={{ display: 'inline', margin: '0 2px' }} /> by Bubu & Dudu Dev Team.
+                    © 2025 Neuronal Network Lab. All rights reserved. Made with ❤️ by Bubu & Dudu Dev Team.
                 </div>
             </footer>
         </>
