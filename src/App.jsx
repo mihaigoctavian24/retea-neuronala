@@ -239,7 +239,7 @@ function App() {
         {/* Right: Actions */}
         <div style={{ display: 'flex', gap: '12px' }}>
           <a
-            href="https://github.com/vostru/proiect-retea"
+            href="https://github.com/mihaigoctavian24/retea-neuronala.git"
             target="_blank"
             rel="noreferrer"
             className="glass-button"

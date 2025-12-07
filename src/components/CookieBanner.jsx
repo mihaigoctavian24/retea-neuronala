@@ -45,8 +45,7 @@ const CookieBanner = () => {
                     <Cookie size={24} color="#00f2fe" />
                 </div>
                 <p style={{ margin: 0, fontSize: '0.9rem', color: 'rgba(255,255,255,0.8)', lineHeight: '1.4' }}>
-                    Folosim module cookie pentru a îmbunătăți experiența de învățare a rețelei neuronale.
-                    (Nu colectăm date personale real, e doar de decor 😉).
+                    Folosim module cookie pentru a îmbunătăți experiența de învățare a rețelei neuronale. Nu colectăm date personale.
                 </p>
             </div>
 
